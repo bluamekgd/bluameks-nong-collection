@@ -13,7 +13,7 @@ This is mostly for NONGs that didn't get accepted into the *SFH Index.*
 https://raw.githubusercontent.com/coppergaming85/coppers-nong-collection/v2/cnc-index.min.json
 ```
 
-3. **Restart your game so the changes can take effect**
+3. **Apply and restart your game so the changes can take effect**
 
 ## How do I add songs to this index?
 
