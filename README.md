@@ -15,4 +15,8 @@ https://raw.githubusercontent.com/coppergaming85/coppers-nong-collection/v2/cnc-
 
 3. **Restart your game so the changes can take effect**
 
+## How do I add songs to this index?
+
+*Coming soon*
+
 # THIS REPOSITORY DOES NOT CONTAIN ANY COPYRIGHTED CONTENT.
