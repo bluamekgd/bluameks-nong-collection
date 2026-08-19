@@ -10,7 +10,7 @@ This is mostly for NONGs that didn't get accepted into the *SFH Index.*
 2. In the `Index URL` box type in:
 
 ```url
-https://raw.githubusercontent.com/bluamekgd/bluameks-nong-collection/v2/cnc-index.min.json
+https://raw.githubusercontent.com/bluamekgd/bluameks-nong-collection/v2/bnc-index.min.json
 ```
 
 3. **Apply and restart your game so the changes can take effect**
