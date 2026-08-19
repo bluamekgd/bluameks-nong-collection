@@ -1,11 +1,11 @@
 {
   "manifest": 1,
-  "name": "Copper's NONG Collection",
-  "id": "coppers-nong-collection",
-  "description": "Copper's NONG Collection. Usually for songs that got rejected from the SFH Index.",
+  "name": "Bluamek's NONG Collection",
+  "id": "bluameks-nong-collection",
+  "description": "Bluamek's NONG Collection. Usually for songs that got rejected from the SFH Index.",
   "lastUpdate": 1724612800,
   "links": {
-    "discord": "https://github.com/coppergaming85/coppers-nong-collection/blob/main/discord.txt"
+    "discord": "https://github.com/bluamekgd/bluameks-nong-collection/blob/main/discord.txt"
   },
   "features": {
     "submit": {
@@ -14,7 +14,7 @@
       ],
       "preSubmitMessage": "Refer to the instructions on GitHub.",
       "requestParams": {
-        "url": "https://github.com/coppergaming85/coppers-nong-collection",
+        "url": "https://github.com/bluamekgd/bluameks-nong-collection",
         "params": true
       }
     }
