@@ -1,4 +1,4 @@
-# Copper's NONG Collection
+# Bluamek's NONG Collection
 An index of NONG (Not On NewGrounds) songs for use in Geometry Dash
 
 This is mostly for NONGs that didn't get accepted into the *SFH Index.*
@@ -10,7 +10,7 @@ This is mostly for NONGs that didn't get accepted into the *SFH Index.*
 2. In the `Index URL` box type in:
 
 ```url
-https://raw.githubusercontent.com/coppergaming85/coppers-nong-collection/v2/cnc-index.min.json
+https://raw.githubusercontent.com/bluamekgd/bluameks-nong-collection/v2/cnc-index.min.json
 ```
 
 3. **Apply and restart your game so the changes can take effect**
@@ -18,7 +18,3 @@ https://raw.githubusercontent.com/coppergaming85/coppers-nong-collection/v2/cnc-
 ## How do I add songs to this index?
 
 *Coming soon*
-
-##
-
-# THIS REPOSITORY DOES NOT CONTAIN ANY COPYRIGHTED CONTENT.
